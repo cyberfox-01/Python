@@ -1,0 +1,10 @@
+CREATE
+DSTR stringmo WITH [I have a pen]
+DINT t
+STORE 8 IN t
+DINT result WITH PLUS 2 DIVBY t 2
+GIVEYOU! result
+GIVEYOU!! stringmo
+GIVEYOU! t
+
+RUPTURE
